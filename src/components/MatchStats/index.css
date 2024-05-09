@@ -1,0 +1,12 @@
+.match-stats-container {
+  width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .match-stats-container {
+    width: 50%;
+  }
+}
+.match-stats {
+  display: flex;
+  justify-content: center;
+}
